@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "おじさんのカツラを守れ",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "カツラを守れ",
+  "start_url": "//index.html",
+  "theme_color": "#ffffff"
+}
