@@ -1,0 +1,9 @@
+{
+  "name": "おじさんのカツラを守れ",
+  "short_name": "カツラ守れ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#28a745",
+  "icons": []
+}manifest.json
